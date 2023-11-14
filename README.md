@@ -7,16 +7,16 @@ Members name:
 4. Didi Mardiansyah   (5302422042)
 
 Activity Diagram from code
-![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/ACTIVITYDIAGRAM.drawio.png)
+- ![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/ACTIVITYDIAGRAM.drawio.png)
 
 Class Diagram from code
-![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/CLASSDIAGRAM.drawio.png)
+- ![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/CLASSDIAGRAM.drawio.png)
 
 Sequence Diagram from code
-![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/SEQUENCEDIAGRAM.drawio.png)
+- ![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/SEQUENCEDIAGRAM.drawio.png)
 
 Use Case Diagram from code
-![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/UCDDIAGRAM.drawio.png)
+- ![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/UCDDIAGRAM.drawio.png)
 
 
 ## Features
