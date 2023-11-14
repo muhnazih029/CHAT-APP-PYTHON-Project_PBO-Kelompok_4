@@ -6,7 +6,7 @@ Members name:
 3. Muhammad Nazih     (5302422026)
 4. Didi Mardiansyah   (5302422042)
 
-   ![Alt text](diagram/ACTIVITY DIAGRAM.drawio.png)
+![Alt activity](ACTIVITY DIAGRAM.drawio.png)
 
    
 
