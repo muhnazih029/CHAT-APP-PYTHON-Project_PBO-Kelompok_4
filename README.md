@@ -1,10 +1,14 @@
 # Messenger App with Python
 ## By Kelompok 4
 Members name:
-1. Alifian (5302422013)
-2. Faridah Az-zahra (5302422015)
-3. Muhammad Nazih (5302422026)
-4. Didi Mardiansyah (5302422042) 
+1. Alifian            (5302422013)
+2. Faridah Az-Zahra   (5302422015)
+3. Muhammad Nazih     (5302422026)
+4. Didi Mardiansyah   (5302422042)
+
+   ![Alt text](image/logo.png)
+
+   
 
 ## Features
 
