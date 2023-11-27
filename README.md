@@ -29,7 +29,7 @@ Members name:
 ![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/SEQUENCE_FITUR_KIRIM_PESAN.drawio.png)
 
 #### Use Case Diagram from code
-![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/UCD_DIAGRAM.drawio.png)
+![Alt text](diagram/UCD DIAGRAM.drawio.png)
 
 ## Features
 
