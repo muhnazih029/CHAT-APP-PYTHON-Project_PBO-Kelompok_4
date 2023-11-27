@@ -1,12 +1,10 @@
 import socket
 import threading
 import tkinter as tk
-from tkinter import Text, Label
 from PIL import Image, ImageTk
 import sys
 from datetime import datetime
 from tkinter import filedialog
-from pathlib import Path
 
 global receive_thread
 global stop_thread
