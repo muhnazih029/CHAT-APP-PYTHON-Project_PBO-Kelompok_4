@@ -1,4 +1,4 @@
-# Messenger App with Python
+# Messenger App with Python Using Tkinter and Socket 
 ## By Kelompok 4
 Members name:
 1. Alifian            (5302422013)
@@ -13,10 +13,23 @@ Members name:
 ![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/CLASSDIAGRAM.drawio.png)
 
 #### Sequence Diagram from code
-![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/SEQUENCEDIAGRAM.drawio.png)
+##### Fitur Chat
+![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/SEQUENCE_FITUR_CHAT.drawio.png)
+##### Fitur Chat Private
+![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/SEQUENCE_FITUR_CHAT_PRIBADI.drawio.png)
+##### Fitur Chat Private Double Click
+![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/SEQUENCE_FITUR_CHAT_PRIBADI_DOUBLE_CLICK.drawio.png)
+##### Fitur Clear Chat
+![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/SEQUENCE_FITUR_CLEAR_CHAT.drawio.png)
+##### Fitur Kirim Emoji
+![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/SEQUENCE_FITUR_KIRIM_EMOJI.drawio.png)
+##### Fitur Kirim Gambar
+![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/SEQUENCE_FITUR_KIRIM_GAMBAR.drawio.png)
+##### Fitur Pesan
+![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/SEQUENCE_FITUR_KIRIM_PESAN.drawio.png)
 
 #### Use Case Diagram from code
-![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/UCDDIAGRAM.drawio.png)
+![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/UCD_DIAGRAM.drawio.png)
 
 ## Features
 
