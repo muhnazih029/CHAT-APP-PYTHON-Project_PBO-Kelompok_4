@@ -7,7 +7,7 @@ Members name:
 4. Didi Mardiansyah   (5302422042)
 
 #### Activity Diagram from code
-![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/ACTIVITYDIAGRAM.drawio.png)
+![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/ACTIVITY_DIAGRAM.drawio.png)
 
 #### Class Diagram from code
 ![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/CLASSDIAGRAM.drawio.png)
