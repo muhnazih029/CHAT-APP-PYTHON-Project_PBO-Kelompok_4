@@ -26,6 +26,17 @@ Members name:
 - The APP can chat with client in private
 - The APP can view the online member in server
 
+## Requirements Library
+- time
+- socket
+- threading
+- subprocess
+- tkinter
+- PIL
+- sys
+- datetime
+- tkinter
+
 Massenger app is a app build by Python. The App play with 2 files is server and client.
 This project works by running on the server and running on the client. The server can accept several clients with a maximum of 5 people.
 The Project ready to use if 2 files is already running.
