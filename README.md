@@ -32,8 +32,10 @@ The Project ready to use if 2 files is already running.
 
 <details>
   <summary>Activity Diagram from code</summary>
+  
   ![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/ACTIVITY_DIAGRAM.drawio.png)
 </details>
+
 
 #### Sequence Diagram from code
 ##### Fitur Chat
