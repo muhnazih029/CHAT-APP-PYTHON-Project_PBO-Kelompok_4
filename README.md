@@ -7,6 +7,29 @@ Members name:
 3. Muhammad Nazih     (5302422026)
 4. Didi Mardiansyah   (5302422042)
 
+## Features
+
+- The APP can connect to the local server
+- The APP can make user chat with other client in the server
+- The APP can send a picture to the server and client can receive the picture
+- The received image can be shown in chat frame
+- The user can chat with another user in private
+- The APP can view the online member in server
+
+## Requirements Library
+- time
+- socket
+- threading
+- subprocess
+- tkinter
+- PIL
+- sys
+- datetime
+
+Massenger app is a app build by Python. The App play with 2 files is server and client.
+This project works by running on the server and running on the client. The server can accept several clients with a maximum of 5 people.
+The Project ready to use if 2 files is already running.
+
 #### Activity Diagram from code
 ![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/ACTIVITY_DIAGRAM.drawio.png)
 
@@ -31,29 +54,6 @@ Members name:
 
 #### Use Case Diagram from code
 ![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/UCD_DIAGRAM.drawio.png)
-
-## Features
-
-- The APP can login to the server
-- The APP can chat with other client in the server
-- The APP can send a picture, video, and audio to the server and client can play
-- The APP can chat with client in private
-- The APP can view the online member in server
-
-## Requirements Library
-- time
-- socket
-- threading
-- subprocess
-- tkinter
-- PIL
-- sys
-- datetime
-- tkinter
-
-Massenger app is a app build by Python. The App play with 2 files is server and client.
-This project works by running on the server and running on the client. The server can accept several clients with a maximum of 5 people.
-The Project ready to use if 2 files is already running.
 
 ## Inspiration
 Inspirated by https://github.com/NetworkTCPChat/NetworkTCPChat
