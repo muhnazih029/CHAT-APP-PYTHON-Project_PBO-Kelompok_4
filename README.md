@@ -31,51 +31,51 @@ This project works by running on the server and running on the client. The serve
 The Project ready to use if 2 files is already running.
 
 <details>
-  <summary><h2>Activity Diagram from code</h2></summary>
+  <summary><h3>Activity Diagram from code</h3></summary>
   
   ![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/ACTIVITY_DIAGRAM.drawio.png)
 </details>
 
 <details>
-  <summary><h2>Sequence Diagram from code</h2></summary>
+  <summary><h3>Sequence Diagram from code</h3></summary>
   
-  <h3>Fitur Chat</h3>
+  <h4>Fitur Chat</h4>
   
   ![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/SEQUENCE_FITUR_CHAT.drawio.png)
-  <h3>Fitur Chat Private</h3>
+  <h4>Fitur Chat Private</h4>
   
   ![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/SEQUENCE_FITUR_CHAT_PRIBADI.drawio.png)
-  <h3>Fitur Chat Private Double Click</h3>
+  <h4>Fitur Chat Private Double Click</h4>
   
   ![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/SEQUENCE_FITUR_CHAT_PRIBADI_DOUBLE_CLICK.drawio.png)
   
-  <h3>Fitur Clear Chat</h3>
+  <h4>Fitur Clear Chat</h4>
   
   ![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/SEQUENCE_FITUR_CLEAR_CHAT.drawio.png)
   
-  <h3>Fitur Kirim Emoji</h3>
+  <h4>Fitur Kirim Emoji</h4>
   
   ![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/SEQUENCE_FITUR_KIRIM_EMOJI.drawio.png)
   
-  <h3>Fitur Kirim Gambar</h3>
+  <h4>Fitur Kirim Gambar</h4>
   
   ![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/SEQUENCE_FITUR_KIRIM_GAMBAR.drawio.png)
   
-  <h3>Fitur Pesan</h3>
+  <h4>Fitur Pesan</h4>
   
   ![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/SEQUENCE_FITUR_KIRIM_PESAN.drawio.png)
 
 </details>
 
 <details>
-  <summary><h2>Use Case Diagram from code</h2></summary>
+  <summary><h3>Use Case Diagram from code</h3></summary>
 
   ![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/UCD_DIAGRAM.drawio.png)
   
 </details>
 
 <details>
-  <summary><h2>Class Diagram from code</h2></summary>
+  <summary><h3>Class Diagram from code</h3></summary>
 
   ![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/CLASS_DIAGRAM.drawio.png)
 
