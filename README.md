@@ -30,8 +30,10 @@ Massenger app is a app build by Python. The App play with 2 files is server and 
 This project works by running on the server and running on the client. The server can accept several clients with a maximum of 5 people.
 The Project ready to use if 2 files is already running.
 
-#### Activity Diagram from code
-![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/ACTIVITY_DIAGRAM.drawio.png)
+<details>
+  <summary>Activity Diagram from code</summary>
+  ![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/ACTIVITY_DIAGRAM.drawio.png)
+</details>
 
 #### Sequence Diagram from code
 ##### Fitur Chat
