@@ -33,9 +33,6 @@ The Project ready to use if 2 files is already running.
 #### Activity Diagram from code
 ![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/ACTIVITY_DIAGRAM.drawio.png)
 
-#### Class Diagram from code
-![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/CLASS_DIAGRAM.drawio.png)
-
 #### Sequence Diagram from code
 ##### Fitur Chat
 ![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/SEQUENCE_FITUR_CHAT.drawio.png)
@@ -54,6 +51,9 @@ The Project ready to use if 2 files is already running.
 
 #### Use Case Diagram from code
 ![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/UCD_DIAGRAM.drawio.png)
+
+#### Class Diagram from code
+![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/CLASS_DIAGRAM.drawio.png)
 
 ## Inspiration
 Inspirated by https://github.com/NetworkTCPChat/NetworkTCPChat
