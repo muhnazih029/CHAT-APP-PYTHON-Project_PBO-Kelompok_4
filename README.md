@@ -1,4 +1,4 @@
-# Messenger App with Python Using Tkinter and Socket 
+<h1 align="center">Messenger App with Python Using Tkinter and Socket <h1>
 ## By Kelompok 4
 Members name:
 1. Alifian            (5302422013)
