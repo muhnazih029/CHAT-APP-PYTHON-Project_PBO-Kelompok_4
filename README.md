@@ -41,7 +41,11 @@ The Project ready to use if 2 files is already running.
   
   <h4>Fitur Chat</h4>
   
-  <center>![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/SEQUENCE_FITUR_CHAT.drawio.png)</center>
+  <center>
+    
+  ![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/SEQUENCE_FITUR_CHAT.drawio.png)
+    
+  </center>
   <h4>Fitur Chat Private</h4>
   
   ![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/SEQUENCE_FITUR_CHAT_PRIBADI.drawio.png)
