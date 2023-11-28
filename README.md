@@ -36,22 +36,36 @@ The Project ready to use if 2 files is already running.
   ![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/ACTIVITY_DIAGRAM.drawio.png)
 </details>
 
+<details>
+  <summary>Sequence Diagram from code</summary>
+  
+  <h3>Fitur Chat</h3>
+  
+  ![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/SEQUENCE_FITUR_CHAT.drawio.png)
+  <h3>Fitur Chat Private</h3>
+  
+  ![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/SEQUENCE_FITUR_CHAT_PRIBADI.drawio.png)
+  <h3>Fitur Chat Private Double Click</h3>
+  
+  ![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/SEQUENCE_FITUR_CHAT_PRIBADI_DOUBLE_CLICK.drawio.png)
+  
+  <h3>Fitur Clear Chat</h3>
+  
+  ![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/SEQUENCE_FITUR_CLEAR_CHAT.drawio.png)
+  
+  <h3>Fitur Kirim Emoji</h3>
+  
+  ![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/SEQUENCE_FITUR_KIRIM_EMOJI.drawio.png)
+  
+  <h3>Fitur Kirim Gambar</h3>
+  
+  ![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/SEQUENCE_FITUR_KIRIM_GAMBAR.drawio.png)
+  
+  <h3>Fitur Pesan</h3>
+  
+  ![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/SEQUENCE_FITUR_KIRIM_PESAN.drawio.png)
 
-#### Sequence Diagram from code
-##### Fitur Chat
-![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/SEQUENCE_FITUR_CHAT.drawio.png)
-##### Fitur Chat Private
-![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/SEQUENCE_FITUR_CHAT_PRIBADI.drawio.png)
-##### Fitur Chat Private Double Click
-![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/SEQUENCE_FITUR_CHAT_PRIBADI_DOUBLE_CLICK.drawio.png)
-##### Fitur Clear Chat
-![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/SEQUENCE_FITUR_CLEAR_CHAT.drawio.png)
-##### Fitur Kirim Emoji
-![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/SEQUENCE_FITUR_KIRIM_EMOJI.drawio.png)
-##### Fitur Kirim Gambar
-![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/SEQUENCE_FITUR_KIRIM_GAMBAR.drawio.png)
-##### Fitur Pesan
-![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/SEQUENCE_FITUR_KIRIM_PESAN.drawio.png)
+</details>
 
 #### Use Case Diagram from code
 ![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/UCD_DIAGRAM.drawio.png)
