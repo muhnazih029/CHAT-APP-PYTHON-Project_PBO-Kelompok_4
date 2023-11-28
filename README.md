@@ -31,13 +31,13 @@ This project works by running on the server and running on the client. The serve
 The Project ready to use if 2 files is already running.
 
 <details>
-  <summary>Activity Diagram from code</summary>
+  <summary><h2>Activity Diagram from code</h2></summary>
   
   ![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/ACTIVITY_DIAGRAM.drawio.png)
 </details>
 
 <details>
-  <summary>Sequence Diagram from code</summary>
+  <summary><h2>Sequence Diagram from code</h2></summary>
   
   <h3>Fitur Chat</h3>
   
@@ -67,11 +67,20 @@ The Project ready to use if 2 files is already running.
 
 </details>
 
-#### Use Case Diagram from code
-![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/UCD_DIAGRAM.drawio.png)
+<details>
+  <summary><h2>Use Case Diagram from code</h2></summary>
 
-#### Class Diagram from code
-![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/CLASS_DIAGRAM.drawio.png)
+  ![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/UCD_DIAGRAM.drawio.png)
+  
+</details>
+
+<details>
+  <summary><h2>Class Diagram from code</h2></summary>
+
+  ![Alt text](https://github.com/Cakra-Angkasa/Project_PBO-Kelompok_4/blob/main/diagram/CLASS_DIAGRAM.drawio.png)
+
+</details>
+
 
 ## Inspiration
 Inspirated by https://github.com/NetworkTCPChat/NetworkTCPChat
